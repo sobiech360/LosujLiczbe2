@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\bin\Debug\net10.0\Losuj Liczbe 2.exe
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\bin\Debug\net10.0\Losuj Liczbe 2.deps.json
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\bin\Debug\net10.0\Losuj Liczbe 2.runtimeconfig.json
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\bin\Debug\net10.0\Losuj Liczbe 2.dll
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\bin\Debug\net10.0\Losuj Liczbe 2.pdb
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.AssemblyInfo.cs
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.dll
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\refint\Losuj Liczbe 2.dll
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.pdb
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\Losuj Liczbe 2.genruntimeconfig.cache
+C:\Users\user\Desktop\xd\LosujLiczbeSequel\Losuj Liczbe 2\Losuj Liczbe 2\obj\Debug\net10.0\ref\Losuj Liczbe 2.dll
