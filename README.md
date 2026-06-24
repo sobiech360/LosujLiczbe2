@@ -1,3 +1,9 @@
+##URUCHOMIENIE
+W Folderze bin odnajdź plik .exe
+Uruchom ciesz się grą :D
+
+
+
 Co robi gra?
 To tekstowa gra konsolowa w zgadywanie ukrytej liczby (zakresy 1-50, 1-100 lub 1-250) napisana w C#.
 Dwa tryby: Standardowy (nielimitowane próby) oraz Tryb Zakładu (przegrana po przekroczeniu zadeklarowanego limitu prób).
