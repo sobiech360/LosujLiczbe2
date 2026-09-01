@@ -1,5 +1,0 @@
-MiskaPopus;4;1;8;True
-PopusMiska;18;1;38;True
-test;12;1;32;True
-Tupton;10;1;19;False
-adas;3;2;8;False
