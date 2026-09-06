@@ -54,7 +54,7 @@ namespace ZgadnijLiczbe2
                 }
             }
 
-            // Remisy rozstrzygane krótszym czasem (Wymóg funkcjonalny)
+            // Remisy rozstrzygane krótszym czasem 
             for (int i = 0; i < wyniki.Length; i++)
             {
                 for (int j = i + 1; j < wyniki.Length; j++)
