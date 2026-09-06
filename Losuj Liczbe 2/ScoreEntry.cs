@@ -1,6 +1,6 @@
 ﻿namespace ZgadnijLiczbe2
 {
-    // ENKAPSULACJA & ABSTRAKCJA: prywatne setter'y chronią przed modyfikacją po utworzeniu
+    // ENKAPSULACJA & ABSTRAKCJA: prywatne settery chronią przed modyfikacją po utworzeniu
     public class ScoreEntry
     {
         public string Name { get; private set; }
